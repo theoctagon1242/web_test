@@ -1,2 +1,2 @@
-Start Bootstrap - Freelancer
+Reece's About Me page
 =========
